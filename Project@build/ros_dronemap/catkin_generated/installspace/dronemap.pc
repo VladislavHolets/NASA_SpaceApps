@@ -1,0 +1,8 @@
+prefix=/home/vladyslav/catkin_ws/install
+
+Name: dronemap
+Description: Description of dronemap
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vladyslav/catkin_ws/install/lib 
+Requires: 
